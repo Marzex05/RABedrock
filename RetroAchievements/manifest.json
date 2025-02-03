@@ -1,0 +1,35 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "RA Prototype",
+      "description": "Prototype Mod to connect Minecraft B.E to Retro Achievements",
+      "min_engine_version": [1, 19, 80],
+      "uuid": "f2cb13e8-45c5-4ff3-934a-6d76196ed47f",
+      "version": [1, 0, 1]
+    },
+    "modules": [
+      {
+        "type": "data",
+        "uuid": "c4e11ab6-4118-4b8a-9cb0-e1ea5c3dd506",
+        "version": [1, 0, 0]
+      },
+      {
+        "type": "script",
+        "language": "javascript",
+        "uuid": "07354d82-5ab9-490d-b741-64d98654111e",
+        "entry": "scripts/main.js",
+        "version": [1, 0, 0]
+      }
+    ],
+    "dependencies": [
+      {
+        "module_name": "@minecraft/server",
+        "version": "1.7.0"
+      },
+      {
+        "module_name": "@minecraft/server-ui",
+        "version": "1.2.0"
+      }
+    ]
+  }
+  
