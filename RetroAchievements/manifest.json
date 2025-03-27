@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-      "name": "RA Prototype",
-      "description": "Prototype Mod to connect Minecraft B.E to Retro Achievements",
+      "name": "RA UNOFFICIAL Prototype",
+      "description": "An UNOFFICIAL standalone development WIP Addon for Minecraft: Bedrock Edition, aimed to connect Minecraft to the extension of Retro Achiemenets! Development is scarce, and will probably be ported to Java Edition and be worked on there rather than Bedrock due to Windows Scripting API limitations.",
       "min_engine_version": [1, 19, 80],
       "uuid": "f2cb13e8-45c5-4ff3-934a-6d76196ed47f",
       "version": [1, 0, 1]
