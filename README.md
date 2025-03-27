@@ -9,4 +9,3 @@ This repistory is just a place to organize and store what I have and am working 
 ### Example Photos:
 ![image](https://github.com/user-attachments/assets/06e06e0c-217c-4fb4-905b-6a5c61992f75)
 ![image](https://github.com/user-attachments/assets/6134f034-238a-46fe-a3d5-0c87381fa0b5)
-![image](https://github.com/user-attachments/assets/5e62fc2f-f852-4e50-af62-e1b2335ee841)
